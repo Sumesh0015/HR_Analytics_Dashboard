@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard – Power BI  
+# HR Analytics Dashboard – Power BI  
 ### Developed by **Sumesh Gareri**
 
 This repository contains an end-to-end **HR Analytics Dashboard** built in **Power BI**, designed to help organizations understand employee attrition, workforce demographics, job roles, salary distribution, and experience patterns.
@@ -7,13 +7,13 @@ The dashboard converts raw HR data into meaningful insights that support **data-
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To analyze **why employees leave**, who is at higher risk of attrition, and which areas HR must focus on to improve retention, hiring strategy, and workforce planning.
 
 ---
 
-## 🧠 Key Insights From the Dashboard
+## Key Insights From the Dashboard
 
 ### 🔹 1. Employee Overview  
 - **Total Employees:** 1470  
@@ -84,14 +84,14 @@ Late-stage attrition → stagnation or lack of career progression.
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ### 🔸 Full Dashboard  
 ![Dashboard](Images/dashboard_full.png)
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 - **Power BI Desktop**
 - **Power Query**
 - **DAX (Data Analysis Expressions)**
@@ -100,7 +100,7 @@ Late-stage attrition → stagnation or lack of career progression.
 
 ---
 
-## 🔥 Skills Demonstrated
+## Skills Demonstrated
 - HR Domain Analytics  
 - Dashboard Building & UX Design  
 - KPI Creation  
@@ -112,7 +112,7 @@ Late-stage attrition → stagnation or lack of career progression.
 
 ---
 
-## 📎 How to Use the Project
+##  How to Use the Project
 1. Download the `.pbix` file from `/PowerBI/`.
 2. Open it in **Power BI Desktop**.  
 3. Explore interactive filters, slicers, and visuals.  
@@ -120,7 +120,7 @@ Late-stage attrition → stagnation or lack of career progression.
 
 ---
 
-## 👨‍💼 Author  
+##  Author  
 ### **Sumesh Gareri**  
 *Data Analyst | Power BI Developer | SQL | Excel | Dashboard Specialist*  
 
@@ -128,7 +128,7 @@ Feel free to connect or provide feedback!
 
 ---
 
-## ⭐ Acknowledgements
+##  Acknowledgements
 This project is part of my **Data Analytics Portfolio**, created to showcase advanced Power BI and HR analytics capabilities.
 
 
