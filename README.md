@@ -1,4 +1,5 @@
 # HR Analytics Dashboard – Power BI  
+<img width="1374" height="768" alt="HR_Analytics_Dashboard" src="https://github.com/user-attachments/assets/7a973a7f-f9b1-42ef-8615-e6246fe4ccbd" />
 ### Developed by **Sumesh Gareri**
 
 This repository contains an end-to-end **HR Analytics Dashboard** built in **Power BI**, designed to help organizations understand employee attrition, workforce demographics, job roles, salary distribution, and experience patterns.
@@ -131,6 +132,6 @@ Feel free to connect or provide feedback!
 ##  Acknowledgements
 This project is part of my **Data Analytics Portfolio**, created to showcase advanced Power BI and HR analytics capabilities.
 
-<img width="1374" height="768" alt="HR_Analytics_Dashboard" src="https://github.com/user-attachments/assets/7a973a7f-f9b1-42ef-8615-e6246fe4ccbd" />
+
 
 
