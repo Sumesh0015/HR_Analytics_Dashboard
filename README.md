@@ -1,5 +1,6 @@
 # HR Analytics Dashboard – Power BI  
-<img width="1374" height="768" alt="HR_Analytics_Dashboard" src="https://github.com/user-attachments/assets/7a973a7f-f9b1-42ef-8615-e6246fe4ccbd" />
+<img width="1373" height="768" alt="Dashboard Image" src="https://github.com/user-attachments/assets/34c7eb18-56f1-46c8-95b2-23e1af5d72d8" />
+
 
 ### Developed by ** Sumesh Gareri **
 
